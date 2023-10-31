@@ -6,8 +6,10 @@ mysql-connector-python==8.0.33
 packaging==23.2
 pefile==2023.2.7
 Pillow==9.5.0
-protobuf==4.21.12
+protobuf
 pyinstaller==5.13.2
 pyinstaller-hooks-contrib==2023.10
 pywin32-ctypes==0.2.2
-Werkzeug==2.2.3
+Werkzeug==2.3.7
+
+
